@@ -1,1 +1,2 @@
+// ==================== Hook.dll Register ==================== //
 Register : SecHex-UL48X8T
